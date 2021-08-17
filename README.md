@@ -1,9 +1,11 @@
 ### SQL
-* [Todo App](https://github.com/Tetsuya3850/spring-jpa-todo/tree/master/src/main/java/com/example/todo)
+* [Basic CRUD Demo](https://github.com/Tetsuya3850/spring-jpa-todo/tree/master/src/main/java/com/example/todo)
+* [Foreign Key Demo](https://github.com/Tetsuya3850/spring-jpa-mysql-blog/tree/master/src/main/java/com/example/blog)
+* [Inheritance Demo](https://github.com/Tetsuya3850/spring-jpa-mysql-inheritance/tree/master/src/main/java/com/example/jpainheritance)
 
 ### Redis
-* [Cache](https://github.com/Tetsuya3850/Spring-Redis-Cache/tree/master/src/main/java/com/example/rediscache)
-* [Recent Search History](https://github.com/Tetsuya3850/Recent-Search-History-Spring-Redis/tree/master/src/main/java/com/example/recentsearch)
+* [Cache Demo](https://github.com/Tetsuya3850/Spring-Redis-Cache/tree/master/src/main/java/com/example/rediscache)
+* [SortedSet Demo](https://github.com/Tetsuya3850/Recent-Search-History-Spring-Redis/tree/master/src/main/java/com/example/recentsearch)
 
 ### Kafka
-* [click-producer](https://github.com/Tetsuya3850/spring-kafka-click-producer/tree/master/src/main/java/com/example/clickproducer)
+* [Producer Demo](https://github.com/Tetsuya3850/spring-kafka-click-producer/tree/master/src/main/java/com/example/clickproducer)
