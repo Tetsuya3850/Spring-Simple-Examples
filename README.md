@@ -1,4 +1,4 @@
-### JPA/MySQL
+### SQL
 * [Todo App](https://github.com/Tetsuya3850/spring-jpa-todo/tree/master/src/main/java/com/example/todo)
 
 ### Redis
