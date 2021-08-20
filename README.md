@@ -8,5 +8,6 @@
 * [SortedSet Demo](https://github.com/Tetsuya3850/Recent-Search-History-Spring-Redis/tree/master/src/main/java/com/example/recentsearch)
 
 ### Kafka
-* [Producer Demo](https://github.com/Tetsuya3850/spring-kafka-click-producer/tree/master/src/main/java/com/example/clickproducer)
+* [Producer Demo](https://github.com/Tetsuya3850/spring-kafka-click-producer/tree/master/src/main)
 * [Processor Demo](https://github.com/Tetsuya3850/spring-kafka-tax-processor/tree/master/src/main)
+* [Consumer Demo](https://github.com/Tetsuya3850/spring-kafka-click-consumer/tree/master/src/main)
