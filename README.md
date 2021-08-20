@@ -1,6 +1,6 @@
 ### SQL
 * [Basic CRUD Demo](https://github.com/Tetsuya3850/spring-jpa-todo/tree/master/src/main/java/com/example/todo)
-* [Foreign Key Demo](https://github.com/Tetsuya3850/spring-jpa-mysql-blog/tree/master/src/main/java/com/example/blog) includes projection, optimistic locking also
+* [Foreign Key Demo](https://github.com/Tetsuya3850/spring-jpa-mysql-blog/tree/master/src/main/java/com/example/blog) also includes projection, optimistic locking
 * [Inheritance Demo](https://github.com/Tetsuya3850/spring-jpa-mysql-inheritance/tree/master/src/main/java/com/example/jpainheritance)
 
 ### Redis
